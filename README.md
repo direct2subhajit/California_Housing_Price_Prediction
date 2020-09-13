@@ -1,4 +1,7 @@
 # California_Housing_Price_Prediction
+
+
+![picture alt](https://www.economist.com/sites/default/files/images/print-edition/20180512_USP003_0.jpg)
 ## Business Problem:
 To predict the prices of houses in Californa based on their different specifications and locations
 ## Description :
